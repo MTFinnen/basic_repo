@@ -1,0 +1,16 @@
+created repo in git Basic_repo
+open terminal, navigated to desktop
+created directory Basic.
+ mkdir Basic
+ created 3 files 
+ touch 'basic.html' 'basic.txt' 'basic.css'
+ open each file and make changes, then save 
+ go back to terminal
+ check where you are 
+ pwd
+ when in Basic directory 
+ git init
+ git add . 
+ git status
+ git commit -m 'Its done'
+  
